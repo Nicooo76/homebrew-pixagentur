@@ -1,6 +1,6 @@
 cask "mausmeter" do
-  version "1.0.5"
-  sha256 "0e397417b09037e48d4717871ebaf3dae013806fa357d29e1699636d0752d8ce"
+  version "1.0.6"
+  sha256 "61be617cfd0fb6b43096340db8604834245a50416dbc4299bacbeb42a4932e54"
 
   url "https://shop.pixagentur.com/mausmeter/download/#{version}"
   name "Mausmeter"
