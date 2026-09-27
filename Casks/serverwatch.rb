@@ -1,6 +1,6 @@
 cask "serverwatch" do
-  version "1.0.2"
-  sha256 "76f1f99b3d46b67d45aaf581ee3856ca05418738ce69b2e08a278d16e9ad0e6c"
+  version "1.0.4"
+  sha256 "b0ee1109861f0dae8c9c14f901c61c705a94c95d8b1eaced6e5ed741b40f8dbe"
 
   url "https://shop.pixagentur.com/serverwatch/download/#{version}"
   name "ServerWatch"
